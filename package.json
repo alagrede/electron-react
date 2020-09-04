@@ -60,7 +60,7 @@
     "electron": "^4.2.12",
     "electron-builder": "^20.44.4",
     "electron-devtools-installer": "^2.2.4",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "cross-env": "^5.2.0",
     "typescript": "^3.6.4",
     "wait-on": "^3.3.0"
